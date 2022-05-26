@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/V11309?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Learn Java Unit Testing with JUnit 5 in 20 Steps	
 This is the code repository for [Apache Spark with Learn Java Unit Testing with JUnit 5 in 20 Steps	](https://www.packtpub.com/application-development/learn-java-unit-testing-junit-5-20-steps-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
